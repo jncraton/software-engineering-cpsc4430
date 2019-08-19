@@ -22,6 +22,9 @@ Upon completion of this course, students will be able to:
 - Work on a software development team
 - Use tools for code analysis
 - Identify and correct security issues in software
+- Structure software development work using Agile methodologies
+- Create software tests
+- Design and implement continuous integration and deployment
 
 Course Overview
 ---------------
