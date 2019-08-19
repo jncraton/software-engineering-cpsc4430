@@ -1,17 +1,17 @@
-CPSC 3410 Computer Networks
-===========================
+CPSC 4430 Software Engineering
+==============================
 
 !INCLUDEURL "https://raw.githubusercontent.com/jncraton/syllabus-template/master/head.md"
 
 Course Catalog Description
 --------------------------
 
-Students will gain in-depth knowledge of networking protocols and technologies, including their relationship to network-centric computing with packet networks. The course topics including ethernet MAC layer, internet protocol, transport layer (TCP, UDP), switching, routing, and network interfaces. The fundamental concepts behind network security and network related threats are presented. Practical network software programming using python is covered with hands-on experience in the lab.
+A study of the principles of software design and development through the development of a large group project. Topics include requirements specification, project design and scheduling, security issues, verification, and validation. Software tools will be used for static code analysis, vulnerability scanning, and fuzzing. An emphasis is put on writing secure, high quality software that will work as expected in all circumstances and not be easily susceptible to vulnerabilities.
 
 Required Resources
 ------------------
 
-Computer Networks, Fifth Edition. Wetherall, D., Tanenbaum, A. [ISBN10: 1105777650](https://www.worldcat.org/title/computer-networks-fifth-edition/oclc/1105777650). 
+Agile Software Development. Martin, Robert. [ISBN10: 0-13-597444-5](https://www.worldcat.org/title/agile-software-development-principles-patterns-and-practices/oclc/464165443). 
 
 
 Course objectives
@@ -19,28 +19,22 @@ Course objectives
 
 Upon completion of this course, students will be able to:
 
-- Describe the layers of the network stack
-- Design secure computer networks
-- Examine network packets to inspect traffic and diagnose issues
-- Build basic networked applications in Python
-- Describe the core protocols used in modern networks (Ethernet, TCP/IP, QUIC, HTTP, DNS, DHCP, SMTP, etc)
+- Work on a software development team
+- Use tools for code analysis
+- Identify and correct security issues in software
 
 Course Overview
 ---------------
 
 Please refer to Canvas for a list of assignments and detailed grading breakdown.
 
-### Presentations
+### Projects
 
-Students will complete two presentations over the course of the semester sharing knowledge of specific areas of interest with their peers.
-
-### Labs
-
-Students will complete weekly labs using various network technologies and the Python programming language.
+At least one significant software project will be completed and assessed. Students will also complete presentations over the course of the semester related to their project progress.
 
 ### Homework/Quizzes
 
-Students will complete appoximately 8 homework assignments covering various topics from the course text. Reading quizzes may also be given as needed and will be counted as homework grades.
+Students will complete appoximately homework assignments covering various topics from the course text. Reading quizzes may also be given as needed and will be counted as homework grades.
 
 ### Exams
 
