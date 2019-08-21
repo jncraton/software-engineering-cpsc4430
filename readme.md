@@ -37,7 +37,7 @@ At least one significant software project will be completed and assessed. Studen
 
 ### Homework/Quizzes
 
-Students will complete appoximately homework assignments covering various topics from the course text. Reading quizzes may also be given as needed and will be counted as homework grades.
+Students will complete approximately 4 homework assignments covering various topics from the course text. Reading quizzes may also be given as needed and will be counted as homework grades.
 
 ### Exams
 
