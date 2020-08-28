@@ -45,6 +45,6 @@ Students will complete approximately 4 homework assignments covering various top
 
 ### Exams
 
-All exams are cumulative with a focus on more recent material. Exam are typically a mix of multiple choice and essay questions.
+All exams are cumulative with a focus on more recent material. Exams are typically a mix of multiple choice and essay questions.
 
 !INCLUDE "tail.md"
