@@ -45,6 +45,6 @@ Students will complete approximately 4 homework assignments covering various top
 
 ### Exams
 
-All exams are cumulative with a focus on more recent material. Every exam will be take-home. Exams must be completed on your own without communication with others, but notes and textbooks may be referenced during the exam.
+All exams are cumulative with a focus on more recent material. Exam are typically a mix of multiple choice and essay questions.
 
 !INCLUDE "tail.md"
