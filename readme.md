@@ -33,14 +33,18 @@ Please refer to Canvas for a list of assignments and detailed grading breakdown.
 
 ### Projects
 
-At least one significant software project will be completed and assessed. Students will also complete presentations over the course of the semester related to their project progress.
+Significant software projects will be completed and assessed. Students will also complete presentations over the course of the semester related to their project progress.
 
-### Homework/Quizzes
+### Quizzes
 
-Students will complete approximately 4 homework assignments covering various topics from the course text. Reading quizzes may also be given as needed and will be counted as homework grades.
+Regular quizzes will be given covering the lecture material. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest three quiz scores from the semester will not count toward the final grade.
+
+### Homework
+
+Students will complete approximately 4 homework assignments covering various topics from the course text.
 
 ### Exams
 
-A total of 3 exams will be taken in this course. All exams are cumulative with a focus on more recent material.
+All exams are cumulative with a focus on more recent material. Every exam will be take-home. Exams must be completed on your own without communication with others, but notes and textbooks may be referenced during the exam.
 
 !INCLUDE "tail.md"
