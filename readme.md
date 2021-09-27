@@ -13,6 +13,12 @@ Required Resources
 
 Agile Software Development. Martin, Robert. [ISBN10: 0-13-597444-5](https://www.worldcat.org/title/agile-software-development-principles-patterns-and-practices/oclc/464165443). 
 
+Other Resources
+---------------
+
+- [Pro Git](https://git-scm.com/book/en/v2)
+    - [Distributed Git: Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
+    - [GitHub Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
 Course objectives
 -----------------
