@@ -63,7 +63,7 @@ Methods
 
 ---
 
-```
+```js
 function write(msg) {
   document.write(msg)
 }
