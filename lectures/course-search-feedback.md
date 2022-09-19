@@ -20,13 +20,13 @@ UX
 -----
 
 
-- Unlabelled data should not appear and disappear
+- Unlabeled data should not appear and disappear
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - "If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature."
 
 New Issues
 ----------
 
-- Table should use labelled headings and colums for various fields
+- Table should use labeled headings and columns for various fields
 - Search as you type, remove search button
 - HTML has a built-in toggle (checkbox) and it should be used in place of the "Filter by course mode" button
 
