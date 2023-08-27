@@ -1,5 +1,8 @@
+Anderson University
+===================
+
 CPSC 4430 Software Engineering
-==============================
+------------------------------
 
 !INCLUDE "head.md"
 
