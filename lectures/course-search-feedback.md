@@ -9,6 +9,11 @@ Git
 - Clean history (use rebase and/or squash and merge)
 - Linking issues to PRs
 
+Collective Ownership
+--------------------
+
+- Everyone owns the whole project
+
 HTML
 ----
 
@@ -20,21 +25,20 @@ UX
 -----
 
 
-- Unlabeled data should not appear and disappear
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) - "If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature."
+- If we are sorting by something, it should be visible
 
 New Issues
 ----------
 
 - Table should use labeled headings and columns for various fields
-- Search as you type, remove search button
-- HTML has a built-in toggle (checkbox) and it should be used in place of the "Filter by course mode" button
+- Instruction type filter must be accessible (should like be a `select`)
 
 New Issues
 ----------
 
-- Column headings for class number and size should sort the table rather than using separate buttons
-- Search should not override other filters (filters, sort, and search should all work correctly together)
+- Column headings should be used for sorting where appropriate
+- Filters, sort, and search should all work correctly together
 
 New Issues
 ----------
