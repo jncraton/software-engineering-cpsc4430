@@ -89,6 +89,7 @@ update:
 	           https://raw.githubusercontent.com/jncraton/course-template/master/env.md \
 	           https://raw.githubusercontent.com/jncraton/course-template/master/style.css \
 	           https://raw.githubusercontent.com/jncraton/course-template/master/gen_dates.py \
+	           https://raw.githubusercontent.com/jncraton/course-template/master/gen_lecture_index.py \
 	           https://raw.githubusercontent.com/jncraton/course-template/master/config.json
 
 	mkdir -p .github/workflows
