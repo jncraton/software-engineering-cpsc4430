@@ -1,4 +1,4 @@
-Fall 2023
+Fall 2024
 
 <main>
 
@@ -9,8 +9,8 @@ Fall 2023
 Office hours
 ------------
 
-- Monday, Wednesday, Friday: 11am - Noon
-- Monday, Tuesday, Wednesday: 2pm - 3pm
-- Thursday: 1pm - 3pm
-
+- Monday: 11am - noon, 2pm - 3pm
+- Tuesday: 2pm - 3pm
+- Wednesday: 11am - noon, 2pm - 3pm
+- Friday: 11am - noon, 1pm - 3pm
 - Schedule a meeting during office hours: [joncraton.com/meet](https://joncraton.com/meet)
