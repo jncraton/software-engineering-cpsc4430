@@ -68,7 +68,8 @@ lectures/all-slides.html: lectures/all.md
 	pandoc --mathjax -t revealjs --standalone -V theme:white -V history=true --metadata pagetitle=Slides -o $@ $<
 
 lectures/index.html: lectures lectures/all.html lectures/all-slides.html lectures/reveal.js
-	cd lectures && tree -H '.' -L 1 --noreport --charset utf-8 -P "*.html" > index.html
+	python3 gen_lecture_index.py
+	pandoc lectures/index.md -o $@
 
 examples/index.html:
 	cd examples && tree -H '.' -L 1 --noreport --charset utf-8 -P "*" > index.html
