@@ -5,13 +5,8 @@ About Me
 --------
 
 - Professor Craton
-- Father of 2 kids (Josiah and Benji)
+- Father of 2 kids - Josiah (2) and Benji (8)
 - My wife's name is Karin
-
-Family
-------
-
-![Family photo](https://joncraton.com/public/family.jpg)
 
 ---
 
