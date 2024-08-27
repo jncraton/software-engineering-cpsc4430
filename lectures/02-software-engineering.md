@@ -20,7 +20,7 @@ Waterfall Model
 
 ---
 
-![Waterfall](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/640px-Waterfall_model.svg.png)
+![Waterfall](https://upload.wikimedia.org/wikipedia/commons/e/e2/Waterfall_model.svg){height=540px}
 
 ---
 
