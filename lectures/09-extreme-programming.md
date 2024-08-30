@@ -1,53 +1,53 @@
-Simple Design
-=============
+Collective Ownership
+====================
 
 ---
 
-Design the best system to meet the needs of the current iteration
+No individual developer owns any part of the application
+
+Continuous Integration
+======================
 
 ---
 
-Redesign the system as needed
+Non-blocking source control
 
 ---
 
-Consider the simplest thing that could possibly work
+Regular check ins
 
 ---
 
-You aren't going to need it
+Build and test before completing check in
 
 ---
 
-Once and only once
-
-Refactoring
-===========
+Testing is end to end
 
 ---
 
-Code degrades as features are added
+Github Actions Example
+
+[Quickstart docs](https://docs.github.com/en/actions/quickstart)
+
+Sustainable Pace
+================
 
 ---
 
-Degradation is reversed through refactoring
+A team is not allowed to work overtime
 
 ---
 
-Refactoring is a series of tiny transformations that improve the structure of the system without impacting its behavior
+Except in the week before a release
+
+Open Workspaces
+===============
 
 ---
 
-Refactoring is a continuous process
-
-Metaphor
-========
+Teams sit together in a shared space
 
 ---
 
-Create a set of ideas and terms to use to describe high-level functionality.
-
-Homework 1
-----------
-
-- Review of chapter 1 in textbook
+![open workspace](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OpenPlanRedBalloon1.jpg/640px-OpenPlanRedBalloon1.jpg)

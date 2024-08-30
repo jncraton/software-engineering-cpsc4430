@@ -1,76 +1,71 @@
-Short Cycles
+Extreme Programming
+===================
+
+---
+
+Extreme programming is a set of software engineering practices that focuses on rapid iteration and responding to change to deliver quality software efficiently.
+
+---
+
+![Feedback loops in XP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extreme_Programming.svg/523px-Extreme_Programming.svg.png)
+
+Customer as team member
+=======================
+
+---
+
+Constant interaction between customer and developers
+
+---
+
+Best for the customer to be local
+
+User Stories
 ============
 
 ---
 
-An XP project delivers work every two weeks.
+We must know something about the requirements, but we don't need to know very much.
 
 ---
 
-## Iteration Plan
-
-- Represents two weeks of work
-- Not always production ready
-- Customer selects stories based on budget
-- Stories may not change once iteration has started
-
-## Release Plan
-
-- Represents ~3 months of work or ~6 iterations
-- Can be released to production
-- Customer sets priorities
-- Releases can be adjusted at any time
-
-Acceptance tests
-================
+We get the sense of the details of the requirements by talking them over with the customer, but we don't capture that detail
 
 ---
 
-Capture details from user stories programmatically
+Customer writes a few words to remind us of the conversations
 
 ---
 
-Can be executed to verify that software meets customer needs
+Developers write a time estimate on the card
 
----
+Common Template
+---------------
 
-Tests are run automatically when code is changed
+As a {role}, I can {capability} so that {receive benefit}
 
----
+Size
+----
 
-Once a test has passed, it is never allowed to fail without being immediately fixed
+- User stories should be as small as possible
+- They provide a shared language for communication between customers and developers
+- They should have meaning for both parties
 
+Personas
+--------
 
-Pair Programming
-================
+- It is common to create and discuss several personas who will be interacting with the system
+- Different classes of users (admins, users, moderators, etc) will have different needs
 
----
+Examples
+--------
 
-All production code is written in pairs
+- As a user, I can create posts so that I can share with others.
+- As a moderator, I can delete posts so that I can remove offensive content.
+- As an administrator, I can block users so that their content is hidden from the platform.
 
----
+Group activity
+--------------
 
-One person uses the keyboard at a time while the other looks for bugs and suggests improvements
-
----
-
-Pairs rotate through the team each day to encourage knowledge sharing
-
-Test Driven Development (TDD)
-=============================
-
----
-
-All production code is written to make tests pass
-
----
-
-We write failing tests for functionality that does not exist, and then implement the functionality
-
----
-
-Time between tests and production code is very short
-
----
-
-This practice ensures that code is testable
+- Choose 1 person to be the customer
+- Create user stories as if you are a team working to build an inventory management system for a local grocery store.

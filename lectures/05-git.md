@@ -1,30 +1,3 @@
-Agile Principles
-================
-
----
-
-The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-
----
-
-Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
----
-
-Continuous attention to technical excellence and good design enhances agility.
-
----
-
-Simplicity - the art of maximizing the amount of work not done - is essential.
-
----
-
-The best architectures, requirements, and designs emerge from self-organizing teams.
-
----
-
-At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
-
 Git Example
 ===========
 
@@ -92,4 +65,3 @@ Exploring History
 - `git log` shows history
 - `--oneline` removes some info
 - `--graph` shows a basic graphical representation on the left
-
