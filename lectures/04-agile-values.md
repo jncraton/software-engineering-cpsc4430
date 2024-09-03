@@ -38,4 +38,8 @@ The course of a software project cannot be planned very far in the future
 
 ---
 
+The plan will undergo changes in shape, not just changes in dates
+
+---
+
 Plans should have decreasing resolution
