@@ -15,6 +15,10 @@ The best contracts are those that govern the way the development team and custom
 
 ---
 
+The customer knew when a block of functionality satisfied their needs because they watched it evolve from week to week
+
+---
+
 The key to success is intense collaboration with the customer
 
 Responding to change over following a plan
