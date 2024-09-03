@@ -26,6 +26,10 @@ Responding to change over following a plan
 
 ---
 
+It is the ability to respond to change that often determines the success or failure of a software project
+
+---
+
 When we build plans, we need to make sure our plans are flexible
 
 ---
