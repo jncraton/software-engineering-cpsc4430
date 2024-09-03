@@ -1,4 +1,4 @@
-personal_ws-1.1 en 35 
+personal_ws-1.1 en 49 
 Async
 Benji
 COVID
@@ -10,15 +10,19 @@ GTK
 Github
 Graydon
 Hoare
+Homebrew
 Iterable
 JS
+KACE
 LSP
 Liskov
 MDN
 MVC
 MacOS
 OCP
+OSBoxes
 PRs
+QEMU
 Quickstart
 SRP
 SpaceX
@@ -26,11 +30,21 @@ Subtypes
 TravisCI
 UML
 UX
+VM
+VirtualBox
 Workspaces
 XP
 async
+fidelitas
+natively
+pre
 programmatically
+px
 rebase
 repo
 substitutable
 th
+utilitas
+veritas
+virt
+virtualized
