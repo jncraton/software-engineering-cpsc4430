@@ -8,6 +8,11 @@ Getting Started
 - Create a regular repositories in directory `a`
 - Create a bare repo (`git init --bare`) in `origin`
 
+Examining State
+---------------
+
+- `git status` will show the current state of the repository
+
 Initial Commit
 --------------
 
