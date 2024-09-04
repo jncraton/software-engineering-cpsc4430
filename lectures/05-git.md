@@ -45,7 +45,7 @@ Cloning
 Update B
 --------
 
-- Add a new change from `b`
+- Commit a new change in `b`
 - Push it to origin
 - Switch back to `a` and pull your change
 
