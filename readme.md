@@ -15,8 +15,8 @@ Fall 2024
 Office hours
 ------------
 
-- Monday: 11am - noon, 2pm - 3pm
-- Tuesday: 2pm - 3pm
+- Monday: 2pm - 3pm
+- Tuesday: 9am - 10am, 2pm - 3pm
 - Wednesday: 11am - noon, 2pm - 3pm
 - Friday: 11am - noon, 1pm - 3pm
 - Schedule a meeting during office hours: [joncraton.com/meet](https://joncraton.com/meet)
@@ -95,7 +95,7 @@ F              0-60%
 Late Assignments
 ----------------
 
-Late assignments will lose 10% for each day they are late rounded up, so an assignment submitted even one second late may be deducted 10%. In certain circumstances, extremely late work may be submitted for up to half credit.
+Late assignments will lose 10% for each day they are late rounded up, so an assignment submitted even one second late may be deducted 10%.
 
 Anderson University Educational Commitment
 ------------------------------------------
