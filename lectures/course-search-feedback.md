@@ -6,7 +6,6 @@ Git
 
 - Do not approve PRs that are not in good shape
 - [Imperative mood](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?h=v2.36.1#n181) in commit messages
-- Clean history (use rebase and/or squash and merge)
 - Linking issues to PRs
 
 Collective Ownership
@@ -17,7 +16,7 @@ Collective Ownership
 HTML
 ----
 
-- Accessibility (enter does not submit search)
+- Accessibility
 - Table should include multiple columns rather than "-" separated text
     - See [Semantic HTML](https://en.wikipedia.org/wiki/Semantic_HTML)
 
@@ -31,15 +30,13 @@ UX
 New Issues
 ----------
 
-- Table should use labeled headings and columns for various fields
-- Instruction type filter must be accessible (should like be a `select`)
+- Table should use labeled headings and columns for all fields
 - All `input` elements should have appropriate associated labels
 
 New Issues
 ----------
 
 - Column headings should be used for sorting where appropriate
-- Filters, sort, and search should all work correctly together
 
 New Issues
 ----------
