@@ -33,6 +33,7 @@ New Issues
 
 - Table should use labeled headings and columns for various fields
 - Instruction type filter must be accessible (should like be a `select`)
+- All `input` elements should have appropriate associated labels
 
 New Issues
 ----------
