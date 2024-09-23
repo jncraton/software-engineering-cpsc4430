@@ -1,3 +1,14 @@
+Course Updates
+==============
+
+---
+
+- October 2 - Exam 1
+  - Agile, XP, Planning, Testing, Refactoring
+  - Review homework assignment will be posted
+- October 2 1-3pm - RavenEdge Career Fair
+  - You should plan to attend
+
 Simple Design
 =============
 
@@ -46,8 +57,3 @@ Metaphor
 ---
 
 Create a set of ideas and terms to use to describe high-level functionality.
-
-Homework 1
-----------
-
-- Review of chapter 1 in textbook
