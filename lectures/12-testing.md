@@ -61,4 +61,4 @@ Acceptance Tests
 
 ---
 
-![Cohn's Test Pyramid](figures/test-pyramid.png)
+![Test Pyramid](https://upload.wikimedia.org/wikipedia/commons/a/a4/Testing_Pyramid.png)
