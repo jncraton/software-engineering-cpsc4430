@@ -17,10 +17,16 @@ Office hours
 ------------
 
 Monday
-  ~ 11am - noon, 1pm - 3pm
+  ~ 11am - noon, 2pm - 3pm
 
 Tuesday
-  ~ 1pm - 3pm
+  ~ 2pm - 3pm
+
+Wednesday
+  ~ 11am - noon, 2pm - 3pm
+
+Thursday
+  ~ 9am - 11am
 
 Friday
   ~ 11am - noon
@@ -108,7 +114,7 @@ Late assignments will lose 10% for each day they are late rounded up, so an assi
 Exam and Quiz Policy
 --------------------
 
-Exams and quizzes are closed-book unless otherwise noted. No external tools (calculators, programming language interpreters, LLMs, books, websites, etc) may be used during quizzes or exams.
+Exams and quizzes are closed-book unless otherwise noted. No external tools (calculators, programming language interpreters, LLMs, books, websites, etc) may be used during quizzes or exams. Students should communicate exam absences in advance if at all possible. Exams that are missed without prior approval may not be made up if a student has missed more than a week of class sessions.
 
 Anderson University Educational Commitment
 ------------------------------------------
