@@ -47,10 +47,9 @@ Making Stress Your Friend
 
 [Video](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
-Effects of Stress
 -----------------
 
-![Yerkes-Dodson curve](media/yerkes-dodson.png)
+![Yerkes-Dodson curve](media/yerkes-dodson.png){height=540px}
 
 Languages
 ---------
