@@ -5,7 +5,7 @@ Getting Started
 ---------------
 
 - `git init` is used to to create a repository
-- Create a regular repositories in directory `a`
+- Create a regular repository in directory `a`
 - Create a bare repo (`git init --bare`) in `origin`
 
 Examining State
