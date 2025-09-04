@@ -1,6 +1,10 @@
 Project Questions
 =================
 
+---
+
+[Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://arxiv.org/abs/2507.09089)
+
 Agile Principles
 ================
 
