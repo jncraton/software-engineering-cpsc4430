@@ -1,8 +1,9 @@
-personal_ws-1.1 en 49 
+personal_ws-1.1 en 56 
 Async
 Benji
 COVID
 CPSC
+CRIM
 Cohn's
 Craton
 Eich
@@ -14,6 +15,7 @@ Homebrew
 Iterable
 JS
 KACE
+LLMs
 LSP
 Liskov
 MDN
@@ -24,6 +26,7 @@ OSBoxes
 PRs
 QEMU
 Quickstart
+RavenEdge
 SRP
 SpaceX
 Subtypes
@@ -35,13 +38,17 @@ VirtualBox
 Workspaces
 XP
 async
+currentCourses
+dropdown
 fidelitas
+getDept
 natively
 pre
 programmatically
 px
 rebase
 repo
+sortMode
 substitutable
 th
 utilitas
