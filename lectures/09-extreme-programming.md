@@ -29,25 +29,3 @@ Testing is end to end
 Github Actions Example
 
 [Quickstart docs](https://docs.github.com/en/actions/quickstart)
-
-Sustainable Pace
-================
-
----
-
-A team is not allowed to work overtime
-
----
-
-Except in the week before a release
-
-Open Workspaces
-===============
-
----
-
-Teams sit together in a shared space
-
----
-
-![open workspace](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OpenPlanRedBalloon1.jpg/640px-OpenPlanRedBalloon1.jpg)
