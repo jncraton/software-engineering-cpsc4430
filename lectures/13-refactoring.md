@@ -1,3 +1,13 @@
+Important Dates
+===============
+
+---
+
+- Tuesday, Sept 30 - Project Collaboration Day
+- Wednesday, Oct 1 - Career Fair (No class)
+- Monday, Oct 6 - Agile Design
+- Tuesday, Oct 7 - Exam
+
 Refactoring
 ===========
 
