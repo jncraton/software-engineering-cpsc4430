@@ -7,7 +7,7 @@ The act of writing a unit test is more an act of design than of verification.
 
 ---
 
-The act of writing a unit test is more an act of documentation that of verification.
+The act of writing a unit test is more an act of documentation than of verification.
 
 Test Driven Development
 =======================
