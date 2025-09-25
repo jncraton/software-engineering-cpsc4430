@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>In-Browser Model Embedding with transformers.js</title>
+</head>
+<body>
+    <h1>Running ibm-granite/granite-embedding-small-english-r2 in the Browser</h1>
+    <p>Check your browser's console (F12) for the generated embeddings.</p>
+
+    <script type="module">
+        // Import the pipeline function from the Xenova transformers library (transformers.js)
+        import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.3';
+
+        // 1. Define the model and task
+        const modelName = '/sirasagi62/granite-embedding-small-english-r2-ONNX';
+        const task = 'feature-extraction';
+
+        // 2. Define the input text
+        const inputText = [
+            'This is an example sentence for embedding.',
+            'What is the capital of France?',
+        ];
+
+        async function generateEmbeddings() {
+            try {
+                // 3. Create the feature-extraction pipeline. 
+                // The model will be automatically downloaded and compiled for your device.
+                const extractor = await pipeline(task, modelName);
+                
+                console.log(`Model "${modelName}" loaded successfully!`);
+
+                // 4. Run the model on the input text
+                // The output will be a tensor containing the embeddings.
+                const output = await extractor(inputText, { 
+                    pooling: 'mean', // Common setting for sentence-level embeddings
+                    normalize: true, // Optionally normalize the vectors to unit length
+                });
+
+                // 5. Display the results
+                console.log('--- Embeddings Generated ---');
+                
+                // Log the shape (dimensions) of the output tensor
+                // For this model, the shape should be [2, 384] (2 sentences, 384-dimensional vector).
+                console.log(`Output Tensor Shape: ${output.dims}`);
+                
+                // Log a snippet of the first embedding vector
+                console.log('Embeddings (first 10 values or each):');
+                console.log(output.data.slice(0, 10));
+                console.log(output.data.slice(1, 10));
+
+            } catch (error) {
+                console.error('An error occurred during model execution:', error);
+            }
+        }
+
+        // Start the process
+        generateEmbeddings();
+
+    </script>
+</body>
+</html>
