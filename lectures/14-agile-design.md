@@ -1,3 +1,5 @@
+No class October 10th due to presidential inauguration
+
 Agile Design
 ============
 
