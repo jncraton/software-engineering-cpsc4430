@@ -1,4 +1,5 @@
-No class October 10th due to presidential inauguration
+- No class October 10th due to presidential inauguration
+- Midterm exam tomorrow
 
 Agile Design
 ============
